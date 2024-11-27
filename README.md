@@ -43,9 +43,3 @@ Este projeto consiste em um site da Marvel desenvolvido como parte da disciplina
 
 Este site foi configurado para rodar em um ambiente Docker utilizando o servidor web **Nginx**.
 
-### **Passos para Executar o Site**
-
-1. **Clonar este repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/SiteMarvel.git
-   cd SiteMarvel
